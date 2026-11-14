@@ -251,11 +251,12 @@ Veterans are targeted with a specific script: charge for what's free, guarantee 
 
 ## The series
 
-The Breachnode field guides: one suite, three focused lists, one rule — **actionable or it doesn't ship.**
+The Breachnode field guides: one suite, four focused lists, one rule — **actionable or it doesn't ship.**
 
 1. **[Awesome Scam Defense](https://github.com/breachnode/awesome-scam-defense)** — Breachnode Field Guide № 1. Prevention, verification, containment.
 2. **[Awesome Consumer Revenge Kit](https://github.com/breachnode/awesome-consumer-revenge-kit)** — Breachnode Field Guide № 2. Disputes, complaints, opt-outs, and the rights they don't advertise.
 3. **Veteran Arsenal** — this list. Benefits, rights and money veterans have earned and routinely never claim.
+4. **[Print Your Own](https://github.com/breachnode/awesome-print-your-own)** — Breachnode Field Guide № 4. Grow what you keep: money management and investing, taught straight. Education only.
 
 ## License
 
